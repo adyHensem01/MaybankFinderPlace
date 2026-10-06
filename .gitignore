@@ -1,0 +1,15 @@
+# Local only: assessment documents and personal planning notes
+*.pdf
+PLAN.md
+
+# Editor settings (contain machine-specific JDK paths)
+.vscode/
+
+# Secrets
+.env
+
+# Build output and logs (also ignored in each sub-project)
+node_modules/
+dist/
+target/
+logs/

@@ -84,3 +84,6 @@ npm run dev
 Open http://localhost:5173.
 
 More detail on the frontend structure and data flow is in [`maybank-places-web/README.md`](maybank-places-web/README.md).
+
+<img width="1047" height="586" alt="gambarpeta" src="https://github.com/user-attachments/assets/a869a488-2e20-4343-85d5-098eb69c8f7b" />
+
